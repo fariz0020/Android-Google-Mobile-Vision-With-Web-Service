@@ -1,0 +1,16 @@
+[12-Apr-2017 04:59:30 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:00:12 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:00:24 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:00:52 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:00:53 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:01:01 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:04:40 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:06:29 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 38
+[12-Apr-2017 05:07:55 America/New_York] PHP Fatal error:  Call to a member function allTerjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:09:59 America/New_York] PHP Fatal error:  Call to a member function allTerjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:10:18 America/New_York] PHP Fatal error:  Call to a member function allTerjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:10:34 America/New_York] PHP Fatal error:  Call to a member function allTerjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:14:49 America/New_York] PHP Fatal error:  Call to a member function allterjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:16:46 America/New_York] PHP Fatal error:  Call to a member function allterjemah() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
+[12-Apr-2017 05:23:26 America/New_York] PHP Fatal error:  Call to a member function getterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 49
+[10-Jun-2017 23:59:09 America/New_York] PHP Fatal error:  Call to a member function selectterjemahan() on null in /home/ihomncns/public_html/skripsifariz/application/controllers/api/Translate.php on line 39
